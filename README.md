@@ -1,4 +1,4 @@
-# Spherical involute helicoid
+# Spherical involute curve
 
 ## Execution
 
